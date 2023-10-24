@@ -10,7 +10,8 @@
     ],
     "python.analysis.extraPaths": [
         ".vscode\\Pico-W-Stub\\stubs",
-        ".vscode/Pico-W-Stub"
+        ".vscode/Pico-W-Stub",
+        ".vscode\\Pico-W-Stub"
     ],
     "python.analysis.diagnosticSeverityOverrides": {
         "reportMissingModuleSource": "none"
