@@ -1,1 +1,2 @@
 # Kybersikana
+NEGŘI NEGŘI NEGŘI
